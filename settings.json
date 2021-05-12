@@ -1,0 +1,29 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 15,
+    "editor.fontWeight": 320,
+    "editor.mouseWheelZoom": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "workbench.colorCustomizations": {
+        "editorIndentGuide.activeBackground": "#ff0000"
+    },
+    "prettier.printWidth": 150,
+    "prettier.tabWidth": 4,
+    "prettier.singleQuote": true,
+    "diffEditor.wordWrap": "off",
+    "editor.wordWrapColumn": 150,
+    "workbench.tree.indent": 15,
+    "explorer.compactFolders": false,
+    "editor.tabSize": 4,
+    "php.validate.executablePath": "C:/xampp/php/php.exe",
+    "php.suggest.basic": false,
+    "editor.linkedEditing": true,
+    "window.zoomLevel": 0.1,
+    "[blade]": {
+        "editor.defaultFormatter": "shufo.vscode-blade-formatter"
+    },
+    "bladeFormatter.format.wrapLineLength": 500
+}
